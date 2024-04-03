@@ -10,18 +10,18 @@
 },
 "default_portrait": "Basic",
 "description": "",
-"display_name": "Батя",
+"display_name": "Юля",
 "mirror": false,
 "nicknames": [""],
 "offset": Vector2(0, 0),
 "portraits": {
 "Basic": {
 "export_overrides": {
-"image": "\"res://Assests/Characters/Батя.png\""
+"image": "\"res://Assests/Characters/Подружка.png\""
 },
 "mirror": false,
-"offset": Vector2(0, 350),
-"scale": 1.5,
+"offset": Vector2(0, 0),
+"scale": 0.9,
 "scene": ""
 }
 },
