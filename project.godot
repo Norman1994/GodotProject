@@ -22,13 +22,15 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
-"Boss": "res://Assests/Characters/Boss.dch",
+"Boss": "res://Characters/Boss.dch",
 "Father": "res://Characters/Father.dch",
 "Glasha": "res://Characters/Glasha.dch"
 }
 directories/dtl_directory={
 "timeline": "res://timeline.dtl"
 }
+layout/style_list=[]
+layout/default_style="Default"
 
 [editor_plugins]
 
