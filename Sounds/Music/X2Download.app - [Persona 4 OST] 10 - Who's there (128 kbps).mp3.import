@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b5mgopkvo655x"
+path="res://.godot/imported/X2Download.app - [Persona 4 OST] 10 - Who's there (128 kbps).mp3-d17e70db6a379b9cedbad9a1bba1490b.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Music/X2Download.app - [Persona 4 OST] 10 - Who's there (128 kbps).mp3"
+dest_files=["res://.godot/imported/X2Download.app - [Persona 4 OST] 10 - Who's there (128 kbps).mp3-d17e70db6a379b9cedbad9a1bba1490b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
