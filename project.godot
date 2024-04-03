@@ -27,7 +27,9 @@ directories/dch_directory={
 "Glasha": "res://Characters/Glasha.dch"
 }
 directories/dtl_directory={
-"timeline": "res://timeline.dtl"
+"Father_room_1": "res://Timelines/Father_room_1.dtl",
+"Glasha_room_1": "res://Timelines/Glasha_room_1.dtl",
+"timeline": "res://Timelines/timeline.dtl"
 }
 layout/style_list=[]
 layout/default_style="Default"
