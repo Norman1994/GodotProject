@@ -1,0 +1,5 @@
+Меню паузы
+- Продолжить игру
+	return
+- Нет
+	do Dialogic.start("res://Scenes/menu.tscn")
