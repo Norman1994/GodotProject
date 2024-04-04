@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://nff6hi6nywkl"]
+[gd_scene load_steps=4 format=3 uid="uid://nff6hi6nywkl"]
 
 [ext_resource type="Script" path="res://Scenes/menu.gd" id="1_0aobb"]
 [ext_resource type="Texture2D" uid="uid://dj4qnrd7obysv" path="res://Assests/Backgrounds/925531.jpg" id="2_03gpm"]
+[ext_resource type="AudioStream" uid="uid://mufvhvmpkjf7" path="res://Sounds/Music/main_menu_music.mp3" id="3_1ch8u"]
 
 [node name="Menu" type="Control"]
 layout_mode = 3
@@ -47,6 +48,10 @@ text = "Начать игру"
 [node name="ExitButton" type="Button" parent="TextureRect/VBoxContainer"]
 layout_mode = 2
 text = "Выход"
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_1ch8u")
+autoplay = true
 
 [connection signal="pressed" from="TextureRect/VBoxContainer/StartButton" to="." method="_on_start_button_pressed"]
 [connection signal="pressed" from="TextureRect/VBoxContainer/ExitButton" to="." method="_on_exit_button_pressed"]

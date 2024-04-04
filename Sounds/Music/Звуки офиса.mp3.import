@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://beuoscq2q4wlv"
+path="res://.godot/imported/Звуки офиса.mp3-aac0105edb6ede0e0bfa0b14df80c25b.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Music/Звуки офиса.mp3"
+dest_files=["res://.godot/imported/Звуки офиса.mp3-aac0105edb6ede0e0bfa0b14df80c25b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
